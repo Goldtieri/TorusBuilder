@@ -1,0 +1,7 @@
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\bin\Debug\ServerTorusBuider.exe.config
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\bin\Debug\ServerTorusBuider.exe
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\bin\Debug\ServerTorusBuider.pdb
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\obj\Debug\ServerTorusBuider.csproj.AssemblyReference.cache
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\obj\Debug\ServerTorusBuider.csproj.CoreCompileInputs.cache
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\obj\Debug\ServerTorusBuider.exe
+C:\Users\idea\source\repos\ServerTorusBuider\ServerTorusBuider\obj\Debug\ServerTorusBuider.pdb

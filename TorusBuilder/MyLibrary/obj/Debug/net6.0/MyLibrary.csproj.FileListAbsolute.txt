@@ -1,0 +1,12 @@
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\refint\MyLibrary.dll
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
+C:\Users\idea\source\repos\TorusBuilder\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll

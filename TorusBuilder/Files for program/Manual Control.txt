@@ -1,0 +1,11 @@
+By enabling manual control, you will no longer be able to use the buttons,
+except for the zoom buttons and the buttons for moving the shape along the axes. 
+To control a 3d model, all you need is - 
+1) hover the mouse cursor over the shape
+2) press and hold the left mouse button
+3) using the cursor movement to rotate the shape
+You will be forced to rotate the figure yourself with the mouse!
+
+The program has a built-in function of automatic rotation of the model, which can be carried out both 
+on each individual coordinate axis and on all axes at once. It should be noted that you cannot use the 
+rotation buttons when auto-rotation is enabled! In any case, you will definitely like it!

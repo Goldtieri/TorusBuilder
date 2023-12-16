@@ -1,0 +1,57 @@
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.exe.config
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.exe
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.pdb
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.FreeGlut.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.OpenGl.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.FreeGlut.xml
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.OpenGl.xml
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.AssemblyReference.cache
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormAbout.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormMainMenu.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.Properties.Resources.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.GenerateResource.cache
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.CoreCompileInputs.cache
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.CopyComplete
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.exe
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.pdb
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormRate.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormSettings.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormSplashScreen.resources
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\Interop.WMPLib.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\Interop.WMPLib.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.ResolveComReference.cache
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\MyLib.dll
+C:\Users\idea\source\repos\TorusBuilder\TorusBuilder\bin\Debug\MyLib.pdb
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.exe.config
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.exe
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\TorusBuilder.pdb
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\FontAwesome.Sharp.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\MyLib.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\MyLib.pdb
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\Tao.FreeGlut.xml
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\Tao.OpenGl.xml
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\Tao.Platform.Windows.xml
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\Interop.WMPLib.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\bin\Debug\AxInterop.WMPLib.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.AssemblyReference.cache
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\Interop.WMPLib.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\AxInterop.WMPLib.dll
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.ResolveComReference.cache
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormAbout.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormMainMenu.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormRate.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormSettings.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.FormSplashScreen.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.Properties.Resources.resources
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.GenerateResource.cache
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.CoreCompileInputs.cache
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.csproj.CopyComplete
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.exe
+C:\Univer\Курсовой проект\TorusBuilder\TorusBuilder\obj\Debug\TorusBuilder.pdb

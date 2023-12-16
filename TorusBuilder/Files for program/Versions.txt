@@ -1,0 +1,49 @@
+Version History
+
+v 1.0.7 20.05.22
+▪A help file has been created
+▪An explanatory note has been made 
+▪Improved manual control mode
+▪Added long button pressing
+
+v 1.0.6 15.05.22
+▪Figure management has been improved
+▪Fixed saving to a file
+▪Added the function of changing the color of the shape and its background
+▪Improved the start screen saver
+
+v 1.0.5 10.05.22
+▪Added timers
+▪The function connection between forms has been removed
+▪Added push-button control of the 3d model
+▪Added update function
+
+v 1.0.4 05.05.22
+▪Files/packages were created to save the data
+▪Added implementation of torus visualization
+▪Added functions for moving 3d models
+▪Added a rating form for the application
+
+v 1.0.3 30.04.22
+▪Added the algorithm for the appearance of the start screen
+▪Collapsing/expanding the menu is implemented
+▪Added libraries Tao OpenGL, Tao FreeGlut and the Tao Windows Platform
+▪Visualization of the simplest 3d primitives is implemented
+
+v 1.0.2 25.04.22
+▪The Tao Framework has been installed
+▪The start screen form has been created
+▪The functions of hiding and resizing the application have been added
+▪The name of the application was invented and added
+
+v 1.0.1 20.04.22
+▪A package was downloaded - Font.Awesome.Sharp
+▪Animated menu, settings, save, exit buttons
+▪Creating a configuration package
+▪The original design of the application using maroon, red and white colors
+
+v 1.0.0 15.04.22
+▪A form has been created
+▪Added the first panels and buttons
+▪The general style of the application is defined
+▪Added definitions for code implementation
